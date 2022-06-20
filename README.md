@@ -1,2 +1,2 @@
-# Preset-Creator
-Create martices easily from your terminal
+# preset-creator
+Create binary martices visually from your terminal
